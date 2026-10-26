@@ -1,5 +1,5 @@
 # The Miner
-`class to execute: engine/Engine.java`
+Run built JAR or execute `engine/Engine.java`
 
 ## Gameplay
 - You have limited fuel
